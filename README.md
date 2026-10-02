@@ -1,6 +1,6 @@
 # My Projects 
 
-In this repository i have added few of my projects i have made. Currently i am working on my React skills and soon enough there will be React projects in more advanced level. 
+In this repository i have added few of my projects i have made. Currently i am working on my React skills and soon enough there will be React projects in more advanced level. For each of the projects you can click on the repository to check the full code
 
 
 
