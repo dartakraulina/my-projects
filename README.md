@@ -15,3 +15,11 @@ categories with how much percentage of the deposited money should go to this cat
 
 
 #2 Movie Tracking app (MovieTracking)[https://github.com/dartakraulina/MovieTracking]
+
+React, Javascript, Html, Css
+
+I made this project to practise React useState. This is a movie tracking application where you can do add movies, rate them and give them a genre. It also has some basic stats.
+<img width="1341" height="816" alt="image" src="https://github.com/user-attachments/assets/43210f3a-9eba-482a-b6e3-15e528b5571c" />
+
+#3
+
