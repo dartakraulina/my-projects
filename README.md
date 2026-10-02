@@ -21,5 +21,26 @@ React, Javascript, Html, Css
 I made this project to practise React useState. This is a movie tracking application where you can do add movies, rate them and give them a genre. It also has some basic stats.
 <img width="1341" height="816" alt="image" src="https://github.com/user-attachments/assets/43210f3a-9eba-482a-b6e3-15e528b5571c" />
 
-#3
+#3 Wordle assistant application (WordleAssistant)[https://github.com/dartakraulina/WordleAssistant]
+
+Javascript, Css, Html
+
+I enjoy my daily word guessing puzzle. But while doing the puzzle i realised how would it be if i made an assistant that would help me guess the word. Obviously using this kind of application would beat the purpose of the puzzle.
+That's why the assistant is made for educational purpose mostly for practising how to work with strings. In this app i can write my starter word and i can add if the letter was abscent, correct or in the wrong position. After searching it 
+will show the list of words that can be the answer. Like in the screenshot it is seen that in the end most of the time there will be just a single possible answer.
+
+<img width="1323" height="621" alt="image" src="https://github.com/user-attachments/assets/1f2051f6-0b28-4b49-8e11-18531f428f55" />
+
+
+#Sudoku  (Sudoku)[https://github.com/dartakraulina/Sudoku]
+
+Javascript, Css, Html
+
+This is a simple sudoku game. Even tho this is very simple, i do enjoy breaking down logical games and making them into a code. 
+
+<img width="1323" height="621" alt="image" src="https://github.com/user-attachments/assets/c3407e41-af34-4bb4-94fd-2a97cc14e51a" />
+
+
+
+
 
